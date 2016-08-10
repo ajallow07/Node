@@ -1,0 +1,9 @@
+Mark Johnson  waffle iron 82  1
+Mark Johnson  blender 200 2
+Mark Johnson  knife 300 3
+Nikita Smith  wafffle iron  340 2
+Nikita Smith  pot 200 4
+Nikita Smith  knife 150 1
+Alieu Jallow  bowl  300 2
+Alieu Jallow  bed 400 1
+Alieu Jallow  chair 4
